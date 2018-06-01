@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>QQuack.com - Ð²ÑÐ¸Ð³ÑÑÐ²Ð°Ð¹ Ð² ÐºÐ»ÐµÐ²ÐµÑ ÐºÐ°Ð¶Ð´ÑÐ¹ ÑÐ°Ð·! ÐºÐ»ÐµÐ²ÐµÑ Ð¾ÑÐ²ÐµÑÑ Ð±Ð¾Ñ</title>
+<script src="/cdn-cgi/apps/head/_yaoIo5alsC9OzoCirVlLFxZQpM.js"></script><link href="/static/css/bootstrap.min.css" rel="stylesheet">
+<link href="/static/css/offcanvas.css" rel="stylesheet">
+<link href="/static/css/special.css" rel="stylesheet">
+<meta name="description" content="ÐÐ¾Ñ Ð´Ð»Ñ Ð²Ð¸ÐºÑÐ¾ÑÐ¸Ð½Ñ Â«ÐÐ»ÐµÐ²ÐµÑÂ». ÐÑÐ²ÐµÑÑ Ð¿Ð¾ÑÐ²Ð»ÑÑÑÑÑ Ð¿ÑÑÐ¼Ð¾ Ð½Ð° ÑÐ°Ð¹ÑÐµ Ð¿Ð¾ Ð¼ÐµÑÐµ Ð¿Ð¾ÑÑÑÐ¿Ð»ÐµÐ½Ð¸Ñ Ð²Ð¾Ð¿ÑÐ¾ÑÐ¾Ð²." />
+<meta name="keywords" content="ÐºÐ»ÐµÐ²ÐµÑ, Ð¾ÑÐ²ÐµÑÑ, Ð²Ð¾Ð¿ÑÐ¾ÑÑ, Ð²Ð¸ÐºÑÐ¾ÑÐ¸Ð½Ð°, Ð¿ÑÐ°Ð²Ð¸Ð»ÑÐ½ÑÐµ, Ð±Ð¾Ñ, ÐºÐ»ÐµÐ²ÐµÑ Ð¾ÑÐ²ÐµÑÑ, ÐºÐ»ÐµÐ²ÐµÑ Ð±Ð¾Ñ" />
+<meta property="og:site_name" content="QQuack.com" />
+<meta property="og:title" content="ÐÑÐ¸Ð³ÑÑÐ²Ð°Ð¹ Ð² ÐºÐ»ÐµÐ²ÐµÑ ÐºÐ°Ð¶Ð´ÑÐ¹ ÑÐ°Ð·!" />
+<meta property="og:description" content="ÐÐ¾Ñ Ð´Ð»Ñ Ð²Ð¸ÐºÑÐ¾ÑÐ¸Ð½Ñ Â«ÐÐ»ÐµÐ²ÐµÑÂ». ÐÑÐ²ÐµÑÑ Ð¿Ð¾ÑÐ²Ð»ÑÑÑÑÑ Ð¿ÑÑÐ¼Ð¾ Ð½Ð° ÑÐ°Ð¹ÑÐµ Ð¿Ð¾ Ð¼ÐµÑÐµ Ð¿Ð¾ÑÑÑÐ¿Ð»ÐµÐ½Ð¸Ñ Ð²Ð¾Ð¿ÑÐ¾ÑÐ¾Ð²." />
+<meta property="og:url" content="https://qquack.com" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="ru_RU" />
+<link rel="image_src" href="https://qquack.com/og.png">
+<meta property="og:image" content="https://qquack.com/og.png" />
+<meta property="og:image:width" content="709" />
+<meta property="og:image:height" content="353" />
+<meta name="twitter:image" content="https://qquack.com/og.png" />
+<meta property="vk:image" content="https://qquack.com/og.png" />
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117467794-1"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<link rel="manifest" href="/manifest.json" />
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=47MWQlryd4">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=47MWQlryd4">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=47MWQlryd4">
+<link rel="mask-icon" href="/safari-pinned-tab.svg?v=47MWQlryd4" color="#5bbad5">
+<link rel="shortcut icon" href="/favicon.ico?v=47MWQlryd4">
+<meta name="msapplication-TileColor" content="#ffc40d">
+<meta name="theme-color" content="#ffffff">
+<script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-117467794-1');
+      var OneSignal = window.OneSignal || [];
+      OneSignal.push(function() {
+        OneSignal.init({
+          appId: "4a5e601d-acda-4eae-9fe6-c8e3856c8e20",
+        });
+      });
+    </script>
+</head>
+<body class="bg-light">
+<div id="particles-js"></div>
+<nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-special">
+<div class="container">
+<a class="navbar-brand" href="/">QQuack</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="navbar-collapse collapse" id="navbarSupportedContent">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a class="nav-link" href="/paywall">ÐÐ¾Ð´Ð¿Ð¸ÑÐºÐ° ÐÐ Ð¸ HQ</a>
+</li>
+</ul>
+<form class="form-inline my-2 my-lg-0">
+<span class="text-muted">Ð¡ÐµÐ¹ÑÐ°Ñ Ð½Ð° ÑÐ°Ð¹ÑÐµ: <span id="ping">1</span></span>
+</form>
+</div>
+</div>
+</nav>
+<style>
+    .aaa { width: auto; height: 160px;margin: auto;}
+    .mobonly { width: 320px; height: 100px;margin: auto;}
+    .main-container {padding-top: 20px;}
+    @media (min-width:426px) { .mobonly {display: none!important;}}
+    @media (min-width:500px) { .aaa { width: auto; height: 160px; }}
+    @media (min-width:800px) { .aaa { width: 810px; height: 120px; }}
+    .logo-think {
+      -webkit-animation: logo-think infinite 10s linear;
+              animation: logo-think infinite 10s linear;
+      height: 50px;
+      float: right;
+    }
+    .logo-hyperthink {
+      -webkit-animation: logo-think infinite 0.1s ease-in-out;
+              animation: logo-think infinite 0.1s ease-in-out;
+      -webkit-transition-timing-function: ease-in-out;
+           -o-transition-timing-function: ease-in-out;
+              transition-timing-function: ease-in-out;
+      height: 50px;
+      float: right;
+    }
+    .no-padding {
+      padding: 0!important;
+    }
+    @-webkit-keyframes logo-think {
+        from { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
+        to { -webkit-transform: rotate(360deg); transform: rotate(360deg); }
+      }
+
+      @keyframes logo-think {
+        from { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
+        to { -webkit-transform: rotate(360deg); transform: rotate(360deg); }
+      }
+
+    .pointer {
+      cursor: pointer;
+    }
+    </style>
+<main role="main" class="container main-container">
+
+<ins class="adsbygoogle aaa" style="display:block" data-ad-client="ca-pub-9144265879910759" data-ad-slot="3037651837"></ins>
+<script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+   </script>
+<div class="d-flex align-items-center p-3 my-3 text-white-50 bg-purple rounded box-shadow">
+<div class="lh-100 col-md-10 no-padding">
+<h6 class="mb-0 text-white lh-100">ÐÐ¶Ð¸Ð´Ð°Ð¹ÑÐµ Ð½Ð°ÑÐ°Ð»Ð¾ Ð¸Ð³ÑÑ.</h6>
+</div>
+<div class="col-md-2 no-padding " style="width: auto;">
+<img src="/static/media/think.svg" class="logo-think" id="think-logo" alt="">
+</div>
+</div>
+<div class="my-3 p-3 bg-white rounded box-shadow sBox" style="display:none;">
+<div class="media text-muted pt-3">
+<div class="media-body pb-3 mb-0 small lh-125" id="searchBox" data-question="" data-answers="">
+<span class="d-block">ÐÐ¾Ð¿ÑÐ¾ÑÐ° ÐµÑÐµ Ð½Ðµ Ð±ÑÐ»Ð¾.</span>
+</div>
+</div>
+<hr style="background-color: transparent!important;" />
+<div class="helpButtons col-md-12" style="display: flex;background-color: transparent!important;">
+<div class="col-md-6 pointer" data-search="google" style="background-color: #2478e0; border-radius: 50px; text-align: center; color: #fff; padding: 13px;margin: 2px;">
+<span class="d-block">ÐÐ¾Ð¸ÑÐº Ð² Google</span>
+</div>
+<div class="col-md-6 pointer" data-search="yandex" style="background-color: #e25555; border-radius: 50px; text-align: center; color: #fff; padding: 13px;margin: 2px;">
+<span class="d-block">ÐÐ¾Ð¸ÑÐº Ð² Ð¯Ð½Ð´ÐµÐºÑ</span>
+</div>
+</div>
+<div class="form-check">
+<input type="checkbox" class="form-check-input" id="checkbox">
+<label class="form-check-label" for="checkbox">ÐÐ¾Ð±Ð°Ð²Ð»ÑÑÑ Ðº Ð·Ð°Ð¿ÑÐ¾ÑÑ Ð²Ð°ÑÐ¸Ð°Ð½ÑÑ Ð¾ÑÐ²ÐµÑÐ¾Ð²</label>
+</div>
+</div>
+<div id="answers">
+<div class="my-3 p-3 bg-white rounded box-shadow">
+<h5 class="border-bottom border-gray pb-2 mb-0">ÐÐ»ÐµÐ²ÐµÑ Ð±Ð¾Ñ</h5>
+<div class="media" style="background-color: #ffffff00 !important;">
+<div class="media-body" style="font-weight: 300;">
+ÐÑÐ¸Ð²ÐµÑ! ÐÐ° ÑÑÐ¾Ð¼ ÑÐ°Ð¹ÑÐµ Ð²ÑÐ²Ð¾Ð´ÑÑÑÑ Ð²Ð¾Ð¿ÑÐ¾ÑÑ Ð¸Ð· Ð²Ð¸ÐºÑÐ¾ÑÐ¸Ð½Ñ "ÐÐ»ÐµÐ²ÐµÑ", Ð° ÑÐ°Ðº Ð¶Ðµ ÑÐ¿ÐµÑÐ¸Ð°Ð»ÑÐ½ÑÐ¹ Ð±Ð¾Ñ Ð²Ð¾ Ð²ÑÐµÐ¼Ñ ÑÑÐ°Ð½ÑÐ»ÑÑÐ¸Ð¸ Ð¿ÑÐ¾Ð³Ð½Ð¾Ð·Ð¸ÑÑÐµÑ Ð½Ð°Ð¸Ð±Ð¾Ð»ÐµÐµ Ð²ÐµÑÐ¾ÑÑÐ½ÑÐ¹ Ð¾ÑÐ²ÐµÑ Ðº Ð²Ð¾Ð¿ÑÐ¾ÑÑ. ÐÐ¾Ñ Ð¿ÑÐ¾Ð³Ð½Ð¾Ð·Ð¸ÑÑÐµÑ Ð¾ÑÐ²ÐµÑ Ð½Ð° Ð²Ð¾Ð¿ÑÐ¾Ñ Ñ ÑÐ¾ÑÐ½Ð¾ÑÑÑÑ <b>Ð´Ð¾ 91%</b>.<br><br>
+ÐÑÐ¾ÑÑÐ¾ Ð·Ð°ÑÐ¾Ð´Ð¸ÑÐµ Ð½Ð° ÑÐ°Ð¹Ñ Ð¿ÐµÑÐµÐ´ Ð½Ð°ÑÐ°Ð»Ð¾Ð¼ Ð¸Ð³ÑÑ (13:00 Ð¸ 20:00 Ð¿Ð¾ Ð±ÑÐ´Ð½ÑÐ¼, Ð¸ Ð² 20:00 Ð¿Ð¾ Ð²ÑÑÐ¾Ð´Ð½ÑÐ¼) Ð¸ Ð¿Ð¾Ð»ÑÑÐ°Ð¹ÑÐµ Ð¼Ð°ÐºÑÐ¸Ð¼Ð°Ð»ÑÐ½Ð¾ ÑÐ¾ÑÐ½ÑÐµ Ð¾ÑÐ²ÐµÑÑ Ð½Ð° Ð²Ð¸ÐºÑÐ¾ÑÐ¸Ð½Ñ "ÐÐ»ÐµÐ²ÐµÑ"!<br><br>
+ÐÐ¾Ñ Ð² discord: <a target="_blank" href="https://discord.gg/b8ukf7W">discord.gg/b8ukf7W</a><br>
+ÐÐ¾Ñ Ð² ÑÐµÐ»ÐµÐ³ÑÐ°Ð¼Ðµ: <a target="_blank" href="tg://resolve?domain=clever_answers">@clever_answers</a><br>
+Ð§Ð°Ñ Ð´Ð»Ñ ÐºÐ¾Ð¾ÑÐ´Ð¸Ð½Ð°ÑÐ¸Ð¸ Ð¾ÑÐ²ÐµÑÐ¾Ð²: <a target="_blank" href="tg://resolve?domain=clever_pub">@clever_pub</a><br>
+ÐÐµÑÐ¿Ð»Ð°ÑÐ½ÑÐ¹ Ð¿ÑÐ¾ÐºÑÐ¸ Ð´Ð»Ñ ÑÐµÐ»ÐµÐ³ÑÐ°Ð¼: <a target="_blank" href="https://tgproxy.me/">tgproxy.me</a><br>
+<br>
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script src="//yastatic.net/share2/share.js"></script>
+<div class="ya-share2" data-services="vkontakte,facebook,odnoklassniki,twitter,viber,whatsapp,skype,telegram" data-counter=""></div>
+</div>
+</div>
+</div>
+</div>
+<div id='zeta88zeta6312'></div>
+<script type='text/javascript'>(function(){function f(v){return Math.abs(v.split('').reduce(function(w,x){return w=(w<<5)-w+x.charCodeAt(0),w&w},0))}function g(v){return(26<=v?g((v/26>>0)-1):'')+'abcdefghijklmnopqrstuvwxyz'[v%26>>0]}var j=673873,r=''+Math.ceil((Date.now()-1.5147648e12)/6.048e8)*j,t=document;p=t.createElement('script'),p.type='text/javascript',p.src='//'+g(f(j+r))+(''+f(j+r)).slice(-1)+g(f(j+(r+1)))+'.ru/code/6312.js',t.getElementById('zeta88zeta6312').appendChild(p)})();</script>
+</main>
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.0/socket.io.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="/static/js/particles.js"></script>
+<script src="/static/js/aaaa.js?bdepo"></script>
+<script src="https://crate.widgetbot.io/v2" async defer>
+  const button = new Crate({
+    server: '435096885758263299',
+    channel: '435096886345728003',
+    position: {
+      x: 'right',
+      y: 'top'
+    }});
+    button.pulse()
+</script>
+
+<script type="text/javascript">
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function() {
+                try {
+                    w.yaCounter48493259 = new Ya.Metrika({
+                        id:48493259,
+                        clickmap:true,
+                        trackLinks:true,
+                        accurateTrackBounce:true
+                    });
+                } catch(e) { }
+            });
+
+            var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+            if (w.opera == "[object Opera]") {
+                d.addEventListener("DOMContentLoaded", f, false);
+            } else { f(); }
+        })(document, window, "yandex_metrika_callbacks");
+    </script>
+<noscript><div><img src="https://mc.yandex.ru/watch/48493259" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+</body>
+</html>
